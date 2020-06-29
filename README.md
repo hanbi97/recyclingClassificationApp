@@ -1,5 +1,7 @@
 # RecyclingClassificationApp
 2020 Spring Capstone Project
+
+@hanbi97 @nohwiin @hj936
 <br>
 #### Youtube
 <a href="https://youtu.be/KR85F_D26dg"><img src="https://user-images.githubusercontent.com/36736904/86003151-5be16380-ba4c-11ea-96d2-433d708baece.png" align="center" height="300"></a>
